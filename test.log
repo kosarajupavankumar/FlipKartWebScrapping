@@ -70,3 +70,7 @@
 2021-12-19 04:11:16,929:INFO:flipkrat.py:Url hitted
 2021-12-19 04:11:17,059:INFO:flipkrat.py:login popup handled
 2021-12-19 04:11:17,345:INFO:flipkrat.py:Search begins for iphone-12
+2021-12-29 08:05:46,291:INFO:flipkrat.py:Url hitted
+2021-12-29 08:05:46,433:INFO:flipkrat.py:login popup handled
+2021-12-29 08:05:46,841:INFO:flipkrat.py:Search begins for iphone-7
+2021-12-29 08:06:20,720:INFO:flipkrat.py:Thread run completed
